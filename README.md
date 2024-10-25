@@ -31,10 +31,10 @@ It also includes a progress tracker and celebratory confetti animation upon comp
    Open index.html in your preferred web browser to view and use the app.
 
 ## Project Structure
-**index.html**: Contains the HTML structure for the Todo App.
-**style.css**: Provides styling, including responsive and transparent effects.
-**app.js**: JavaScript functionality for task management and storage.
-**README.md**: Project documentation.
+- **index.html**: Contains the HTML structure for the Todo App.
+- **style.css**: Provides styling, including responsive and transparent effects.
+- **app.js**: JavaScript functionality for task management and storage.
+- **README.md**: Project documentation.
 
 ## Usage
 1. **Adding Tasks**: Type a task into the input field and click the "+" button to add it to the list.
